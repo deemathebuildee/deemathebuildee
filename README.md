@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Deema
 
-<!--
-**deemathebuildee/deemathebuildee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Science student, learning to build real projects and improve my coding skills.
 
-Here are some ideas to get you started:
+## About Me
+I started my GitHub in my first year of university to create a place where I can store my code, track my progress, and build my developer journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm still learning, but I'm excited to grow and improve.
+
+## What I'm Learning
+- Python
+- Java
+
+## My Goals
+- Become confident in programming
+- Build useful projects
+- Learn new technologies
+- Improve step by step
+
+## Projects
+I will be uploading my university assignments, beginner projects, and anything I create as I learn more.
+
+## Connect
+[LinkedIn Profile](https://www.linkedin.com/in/deema-alotibi-5347a5398/)
